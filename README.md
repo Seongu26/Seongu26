@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Seongu(Henry)
 - 👀 I’m interested in dig data analysis, machine learning, data mining.
-- 🌱 I’m currently learning machine learning with statistical bases and software engineering.
+- 🌱 I’m currently practicing machine learning with statistical bases and software engineering(front end).
 - 📫 How to reach me (email : sungu731@gmail.com)
